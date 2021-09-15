@@ -1,0 +1,1 @@
+[{"model": "cars.car", "pk": 1, "fields": {"name": "Panda", "height": "1.65", "width": "1.66", "brand": 2}}, {"model": "cars.car", "pk": 2, "fields": {"name": "Aygo", "height": "1.46", "width": "1.61", "brand": 1}}, {"model": "cars.car", "pk": 3, "fields": {"name": "500", "height": "1.48", "width": "1.62", "brand": 2}}]
